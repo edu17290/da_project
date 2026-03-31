@@ -1,0 +1,7 @@
+comandosvenv
+.env
+__pycache__/
+*.pyc
+*.log
+
+NOTAS.txt
